@@ -11,3 +11,4 @@ git commit:commit the file
 
 git restore :restore the deleted file (possible if its commited)
 
+its warking purfect
