@@ -10,3 +10,4 @@ git add 'file-name': adding file into staged
 git commit:commit the file
 
 git restore :restore the deleted file (possible if its commited)
+
